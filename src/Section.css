@@ -1,0 +1,11 @@
+.Section {
+  height: 50vh;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  justify-content: center;
+  margin: 10vh 0; 
+
+}
+
